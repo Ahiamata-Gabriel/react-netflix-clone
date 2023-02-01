@@ -1,0 +1,336 @@
+@media (max-width: 1000px) {
+  .Second--img {
+    width: 90%;
+  }
+
+  .Accordian {
+    width: 90%;
+  }
+
+  .Footer-grid {
+    gap: 5rem;
+  }
+}
+
+@media (max-width: 950px) {
+  .Input--container {
+    flex-direction: column;
+  }
+
+  .Input--btn {
+    margin-top: 2rem;
+    font-size: 1.6rem;
+    height: 40px;
+    width: 130px;
+  }
+
+  .forward-icon {
+    height: 15px;
+    width: 10px;
+  }
+
+  .First,
+  .Second {
+    grid-template-columns: 1fr;
+  }
+
+  .First--img {
+    width: 60%;
+  }
+
+  .First--text-container {
+    margin-top: 3rem;
+    padding-left: 0;
+    text-align: center;
+  }
+
+  .First-h1,
+  .Second-h1 {
+    font-size: 4rem;
+    text-align: center;
+  }
+
+  .First-h5,
+  .Second-h5 {
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  .Second--text-container {
+    padding-right: 0;
+    margin-top: 3rem;
+    order: 1;
+  }
+  .Second--img-container {
+    order: 2;
+  }
+
+  .Second--img-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .Second--img {
+    width: 60%;
+  }
+
+  .Accordian {
+    width: 95%;
+  }
+
+  .Accordian-h1 {
+    font-size: 4rem;
+  }
+}
+
+@media (max-width: 800px) {
+  .Input {
+    width: 500px;
+    height: 50px;
+  }
+
+  .First-h1,
+  .Second-h1 {
+    font-size: 3.5rem;
+    text-align: center;
+  }
+
+  .First-h5,
+  .Second-h5 {
+    font-size: 1.8rem;
+    text-align: center;
+  }
+
+  .First--text-container {
+    padding: 0 10rem;
+  }
+
+  .Accordian {
+    width: 100%;
+    padding: 4rem 6rem;
+  }
+
+  .Top {
+    padding: 1.5rem 3rem;
+    font-size: 2.1rem;
+  }
+
+  .Hero--text-h1,
+  .MiddleHeader {
+    font-size: 4rem;
+  }
+
+  .Center {
+    padding-left: 10rem;
+  }
+
+  .Footer-grid {
+    gap: 4rem;
+  }
+
+  .Answer {
+    font-size: 1.8rem;
+  }
+
+  .Accordian-h1 {
+    font-size: 4rem;
+  }
+}
+
+@media (max-width: 728px) {
+  .Input {
+    width: 500px;
+    height: 50px;
+  }
+
+  .Input--h5 {
+    padding: 0 4rem;
+    text-align: center;
+  }
+
+  .First-h1,
+  .Second-h1 {
+    text-align: center;
+    padding: 0 4rem;
+  }
+
+  .MiddleText {
+    padding: 7rem 0 7rem 0rem;
+  }
+
+  .MiddleHeader {
+    text-align: center;
+  }
+  .MiddleHeader-h3 {
+    text-align: center;
+  }
+
+  .Mustfix {
+    padding: 0 4rem;
+  }
+  .Footer-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .last-grid {
+    display: none;
+  }
+
+  .Center {
+    padding-left: 0;
+  }
+}
+
+@media (max-width: 580px) {
+  .Input {
+    width: 450px;
+    height: 50px;
+  }
+
+  .First--img {
+    width: 90%;
+  }
+
+  .Second--img {
+    width: 85%;
+  }
+
+  .Accordian-h1 {
+    padding: 0 5rem;
+    text-align: center;
+  }
+}
+
+@media (max-width: 550px) {
+  .Logo {
+    height: 35px;
+    width: 95px;
+  }
+  .Hero--text-h1,
+  .MiddleHeader {
+    font-size: 3rem;
+  }
+
+  .Hero--text-h3,
+  .MiddleHeader-h3 {
+    font-size: 2rem;
+  }
+
+  .Input--h5 {
+    font-size: 1.7rem;
+  }
+
+  .Hero {
+    height: auto;
+  }
+
+  .Hero--text {
+    margin-top: 5rem;
+  }
+
+  .Input--container {
+    margin-bottom: 4rem;
+  }
+
+  .Input--h5 {
+    margin-top: 1.5rem;
+  }
+
+  .First-h1,
+  .Second-h1 {
+    font-size: 3rem;
+  }
+
+  .First--text-container {
+    padding: 0 5rem;
+  }
+
+  .Second--text-container {
+    padding: 0 2rem;
+  }
+
+  .Accordian-h1 {
+    font-size: 3rem;
+  }
+
+  .Accordian {
+    width: 100%;
+    padding: 1rem 1rem;
+  }
+
+  .Top {
+    font-size: 1.9rem;
+  }
+
+  .Footer {
+    margin: 5rem 2rem;
+  }
+  .Footer-grid {
+    gap: 2rem;
+  }
+}
+
+@media (max-width: 550px) {
+  .Input {
+    width: 390px;
+    height: 45px;
+  }
+
+  .Input--btn {
+    font-size: 1.6rem;
+    height: 35px;
+    width: 110px;
+  }
+
+  .forward-icon {
+    height: 13px;
+    width: 8px;
+  }
+
+  .Second--img {
+    width: 100%;
+  }
+
+  .Top {
+    padding: 1rem 2rem;
+  }
+
+  .Footer-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .last-grid {
+    display: none;
+  }
+
+  .Footer-grid {
+    gap: 3rem;
+  }
+}
+
+@media (max-width: 450px) {
+  .Input {
+    width: 350px;
+    height: 43px;
+  }
+
+  .Hero--text-h3,
+  .MiddleHeader-h3 {
+    font-size: 1.8rem;
+  }
+}
+
+@media (max-width: 400px) {
+  .Input {
+    width: 300px;
+    height: 43px;
+  }
+}
+
+@media (max-width: 350px) {
+  .Input {
+    width: 280px;
+    height: 43px;
+  }
+}
+
+/* @media (min-width: 341px) and (max-width: 480px) */

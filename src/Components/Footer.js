@@ -15,13 +15,13 @@ function Footer() {
           <a className="Footer--middle-links">Cookie Preferences</a>
           <a className="Footer--middle-links">Legal Notices</a>
         </div>
-        <div className="Footer--grid-items">
+        <div className="Footer--grid-items last-grid">
           <a className="Footer--middle-links">Account</a>
           <a className="Footer--middle-links">Ways to watch</a>
           <a className="Footer--middle-links">Corporate Information</a>
           <a className="Footer--middle-links">Only on Netflixt</a>
         </div>
-        <div className="Footer--grid-items">
+        <div className="Footer--grid-items last-grid">
           <a className="Footer--middle-links">Media Center</a>
           <a className="Footer--middle-links">Terms of Use</a>
           <a className="Footer--middle-links">Contact Us</a>
