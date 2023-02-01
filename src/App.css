@@ -27,7 +27,7 @@ body {
 }
 
 .Hero {
-  background-image: url(./Images/bg-img.png);
+  background-image: url(./Images/bg-img.webp);
   background-repeat: no-repeat;
   background-size: cover;
   object-fit: cover;

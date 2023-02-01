@@ -24,19 +24,19 @@ function App() {
     <div className="App">
       <Hero />
       <Main
-        image="./images/first-img.png"
+        image="./images/first-img.webp"
         header="Enjoy on your TV."
         phrase=" Watch on Smart TVs, Playstation, Xbox, Chromecast, Apple TV, Blu-ray
       players, and more."
       />
       <SecondMain
-        image="./images/stranger-things.png"
+        image="./images/stranger-things.webp"
         header="Download your shows to watch offline."
         phrase="Save your favorites easily and always have something to watch."
       />
       <MiddleText />
       <SecondMain
-        image="./images/02.png"
+        image="./images/02.webp"
         header="Create profiles for kids."
         phrase="Send kids on adventures with their favorite characters in a space made just for them—free with your membership."
       />
