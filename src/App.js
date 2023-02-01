@@ -1,4 +1,5 @@
 import './App.css';
+import './Querries.css';
 import Hero from './Components/Hero';
 import Main from './Components/Main';
 import SecondMain from './Components/SecondMain';
@@ -37,7 +38,7 @@ function App() {
       <SecondMain
         image="./images/02.png"
         header="Create profiles for kids."
-        phrase="Save your favorites easily and always have something to watch."
+        phrase="Send kids on adventures with their favorite characters in a space made just for them—free with your membership."
       />
 
       <div className="Accordian--container">

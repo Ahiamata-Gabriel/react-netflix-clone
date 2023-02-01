@@ -258,7 +258,6 @@ body {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   gap: 10rem;
-  align-items: center;
   justify-content: center;
 }
 
